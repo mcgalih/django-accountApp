@@ -1,2 +1,5 @@
 .vscode/
 blogapp/__pycache__/
+users/__pycache__/
+users/migrations/__pycache__/
+db.sqlite3
